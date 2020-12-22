@@ -5,8 +5,6 @@ import java.util.LinkedHashSet;
 import java.util.Set;
 import java.util.stream.Collectors;
 
-import com.kpakozdi.ArrayUtils;
-
 public class AssignmentProblem {
     private final int[][] c;
     private final int[][] original;
